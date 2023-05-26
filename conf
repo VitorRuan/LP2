@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Configurações</title>
+</head>
+<body>
+    <h2>Configurações</h2>
+        <div>
+            <button>Conta</button>
+        </div>
+        <div>
+            <button>Notificações</button>
+        </div>
+        <div>
+            <button>Privacidade</button>
+        </div>
+        <div>
+            <button>Idioma</button>
+        </div>
+        <div>
+            <button>Ajuda</button>
+        </div>
+
+<div style="text-align: center;">
+    <form>
+        <h3>Conta</h3>
+        <h4>Informações da Conta:</h4>
+            <label for='nome'>Nome do usuário:</label>
+            <input type="text" id='nome' placeholder="Adicionar">
+        <div>
+            <label for='tel'>Telefone:</label>
+            <input type="tel" id='tel' placeholder="Adicionar">
+        </div>
+            <label for="em">E-mail:</label>
+            <input type="email" id="em" placeholder="Adicionar">
+    </form>
+</div>
+<div style="text-align: center;">
+    <form>
+        <h3>Notificações</h3>
+        <h4>Preferências:</h4>
+            <li>Ativar Notificações:</li>
+            <label for="sim">Sim</label>
+            <input type="checkbox" id="sim">
+            <label id="no">Não</label>
+            <input type="checkbox" id="no" >
+        <div>
+            <li>Som das Notificações</li>
+                <select>
+                    <option value="op1">Opção 1</option>
+                    <option value="op2">Opção 2</option>
+                    <option value="op3">Opção 3</option>
+                </select>
+        </div>
+    </form>
+</div>
+<div style="text-align: center;">
+    <form>
+        <h3>Privacidade</h3>
+        <h4>Preferências:</h4>
+            <label for="ale">Quem pode ver minhas publicações e alertas</label>
+            <input type="checkbox" id="ale">
+        <div>
+            <label for="bloq">Bloquear</label>
+            <input type="text" id="bloq" placeholder="Adicionar">
+        </div>
+        <div>
+            <label for="sil">Silenciar</label>
+            <input type="text" id="sil" placeholder="Adicionar">
+        </div>
+    </form>
+</div>
+<div style="text-align: center;">
+    <form>
+        <h3>Idioma</h3>
+        <h4>Preferências:</h4>
+        <label>Selecione o Idioma:</label>
+        <select>
+            <option value='ing'>Inglês</option>
+            <option value="por">Português</option>
+            <option value="esp">Espanhol</option>
+          </select>
+    </form>
+</div>
+<div style="text-align: center;">
+    <form>
+        <h3>Ajuda</h3>
+        <h4>Central de Ajuda</h4>
+        <label for="fale">Fale Conosco</label>
+        <input type="text" id="fale" placeholder="Descreva seu problema">
+        <label>Termos de Política e Privacidade</label>
+    </form>
+</div>
+</body>
+</html>
