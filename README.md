@@ -26,7 +26,7 @@ Cada sprint no desenvolvimento ágil resulta em uma entrega funcional e incremen
 |:--:|:----------:|:----------------|:-------------------------------------------------:|
 | 01 | 06/05/2024 | ✔️ Concluída    | [ver relatório](https://github.com/The-Bugger-Ducks/help-duck-documentation/blob/sprint-01/README.md) |
 | 02 | 15/05/2024 | ✔️ Concluída    | [ver relatório](https://github.com/The-Bugger-Ducks/help-duck-documentation/blob/sprint-02/README.md) |
-| 03 | 11/06/2024 | ✔️ Concluída    | [ver relatório](https://github.com/The-Bugger-Ducks/help-duck-documentation/blob/sprint-03/README.md) |
+| 03 | 11/06/2024 | ⏳  Em andamento    | [ver relatório](https://github.com/The-Bugger-Ducks/help-duck-documentation/blob/sprint-03/README.md) |
 
 ## :dart: Backlogs & User Stories
     
@@ -44,13 +44,12 @@ Cada sprint no desenvolvimento ágil resulta em uma entrega funcional e incremen
 <span id="prototipo">
 
 ## :desktop_computer: Protótipo & Documentação
-Como parte do planejamento do projeto foram criados wireframes e mockups para idealização do layout, que, ao ser validado pelo cliente, foram aplicados em um protótipo construído em React, possibilitando a interação do usuário com a interface (vide [entrega da primeira sprint](https://github.com/The-Bugger-Ducks/help-duck-documentation/blob/sprint-01/README.md)).
-    
-Por conta da arquitetura orientada a microsserviços adotada neste projeto, houve a descentralização e isolamento de responsabilidades entre o front-end e o back-end, garantindo que as funcionalidades fossem integradas a partir do consumo das APIs disponíveis, onde a documentação desses microsserviços, um dos requisitos não funcionais desejados para o projeto, foi praticada durante todo o desenvolvimento através de ferramentas como o Swagger ou readmes dos repositórios, mapeando todos os endpoints de cada API criada relacionada ao projeto, enquanto que para outras documentações do projeto como um todo, tais como os fluxos de dados, diagramas de classe e de uso, modelagem de banco de dados e arquiteturas foram condensadas em um guia PDF.
+Durante o desenvolvimento do sistema de cadastro de professores e cursos, a fase inicial de planejamento e prototipagem desempenhou um papel crucial ao assegurar que todos os requisitos funcionais e não funcionais fossem claramente definidos e visualizados antes da implementação.
+
+Essa API RESTful utiliza os métodos HTTP POST, GET, PUT e DELETE, completando os métodos básicos do CRUD. Além disso, a aplicação é construída sobre a arquitetura MVC.
     
 > 🔗 **Links gerais** <br>
 > - Documentação do software: [clique aqui para acessar](./documentacao_geral.pdf)
-> - Manual do usuário: [clique aqui para acessar](./manual_usuario.pdf)
 > - Links para os repositórios criados:
 >    - **Frontend:** [acessar help-duck-web](https://github.com/The-Bugger-Ducks/help-duck-web)
 >    - **Microsserviços (backend):**
