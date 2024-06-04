@@ -34,8 +34,9 @@ Cada sprint no desenvolvimento ágil resulta em uma entrega funcional e incremen
     
 ![req funcionais](https://github.com/VitorRuan/LP2/blob/main/Requisitos%20funcionais.png)  
 ![req ñ funcionais](https://github.com/VitorRuan/LP2/blob/main/Requisitos%20%20n%C3%A3o%20funcionais.png)
-![sprint backlog](https://user-images.githubusercontent.com/69374340/172057787-dcc1ecce-1b08-464b-850e-7019dc050056.png)
-![user stories](https://user-images.githubusercontent.com/69374340/172057949-daade83b-8fec-4acc-a3cf-c4a26a3d3162.png)
+![sprint1](https://github.com/VitorRuan/LP2/blob/main/Sprint%2001.PNG)
+![sprint2](https://github.com/VitorRuan/LP2/blob/main/Sprint%2002.PNG)
+![sprint3](https://github.com/VitorRuan/LP2/blob/main/Sprint%2003.PNG)
 </div>
   
 → [Voltar ao topo](#topo)
