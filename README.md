@@ -14,44 +14,19 @@
 <span id="sobre">
 
 ## :bookmark_tabs: Sobre o projeto
-A partir da apresentação do desafio enfrentado pela empresa parceira, a solução desenvolvida se configura em um site para Help Desk, que consiste em um sistema com 3 frentes: a do **usuário comum**, que pode abrir um chamado e acompanhar seu ciclo de vida, mas também consultar um centro de soluções para resolver seu problema sem o auxílio de um suporte; a do **usuário suporte**, que atende os chamados abertos mas também pode consultar o centro de soluções; e a do **usuário administrador**, cujo tem a função de cadastrar os outros usuários e equipamentos, além de poder visualizar relatórios relacionado aos chamados, observando padrões e métricas de seu interesse.
+A ideia para o desenvolvimento do projeto surgiu da necessidade de se adequar ao tema proposto pela coordenadora do curso de Desenvolvimento de Software Multiplataforma, professora Angelina Vitorino de Souza Melaré. Ela identificou uma dificuldade na secretaria acadêmica da unidade, o que nos levou a buscar a criação de um sistema/site que facilitasse o cadastro dos professores e das disciplinas que eles lecionam.
 
 > _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos_
 
-:pushpin: Status do Projeto: **Concluído** :heavy_check_mark:
+:pushpin: Status do Projeto: **Em Andamento**
 
 ### 🏁 Entregas de Sprints
-Cada entrega foi realizada a partir da criação de uma **tag** em cada repositório (web e todos os microsserviços), além da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
+Cada sprint no desenvolvimento ágil resulta em uma entrega funcional e incremental do sistema. Essas entregas são versões do produto que incluem novas funcionalidades implementadas e testadas, prontas para serem demonstradas e, potencialmente, utilizadas. Observe a relação a seguir:
 | Sprint | Previsão | Status | Histórico |
 |:--:|:----------:|:----------------|:-------------------------------------------------:|
-| 01 | 14/04/2022 | ✔️ Concluída    | [ver relatório](https://github.com/The-Bugger-Ducks/help-duck-documentation/blob/sprint-01/README.md) |
-| 02 | 15/05/2022 | ✔️ Concluída    | [ver relatório](https://github.com/The-Bugger-Ducks/help-duck-documentation/blob/sprint-02/README.md) |
-| 03 | 05/06/2022 | ✔️ Concluída    | [ver relatório](https://github.com/The-Bugger-Ducks/help-duck-documentation/blob/sprint-03/README.md) |
-
-### :clapper: Apresentação Final
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
-<details>
-   <summary>Usuário comum</summary>
-    <div align="center">
-        <img src="https://user-images.githubusercontent.com/69374340/172084663-1e8ae95b-0c84-493c-b4ab-5cfcda5a4eb3.gif">
-    </div>
-</details>
-<details>
-   <summary>Usuário suporte</summary>
-    <div align="center">
-        <img src="https://user-images.githubusercontent.com/69374340/172084712-de2d2905-dc65-41af-97e8-f980eff5f2d1.gif">
-    </div>
-</details>
-<details>
-   <summary>Usuário administrador</summary>
-    <div align="center">
-        <img src="./usuario_administrador.gif">
-    </div>
-</details>
-    
-→ [Voltar ao topo](#topo)
-
-<span id="backlogs">
+| 01 | 06/05/2024 | ✔️ Concluída    | [ver relatório](https://github.com/The-Bugger-Ducks/help-duck-documentation/blob/sprint-01/README.md) |
+| 02 | 15/05/2024 | ✔️ Concluída    | [ver relatório](https://github.com/The-Bugger-Ducks/help-duck-documentation/blob/sprint-02/README.md) |
+| 03 | 11/06/2024 | ✔️ Concluída    | [ver relatório](https://github.com/The-Bugger-Ducks/help-duck-documentation/blob/sprint-03/README.md) |
 
 ## :dart: Backlogs & User Stories
     
