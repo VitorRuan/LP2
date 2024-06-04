@@ -7,6 +7,7 @@
     <a href="#sobre">Sobre</a>  |  
     <a href="#backlogs">Backlogs & User Stories</a>  |  
     <a href="#prototipo">Protótipo & Documentação</a>  |  
+    <a href="#arquitetura">Arquitetura</a>  |  
     <a href="#tecnologias">Tecnologias</a>  |  
     <a href="#equipe">Equipe</a>
 </p>
@@ -64,6 +65,8 @@ Essa API RESTful utiliza os métodos HTTP POST, GET, PUT e DELETE, completando o
 >    - **Microsserviço de problemas e soluções:** [acessar Swagger](https://help-duck-solution-center.herokuapp.com/swagger-ui/index.html#/)
 
 → [Voltar ao topo](#topo)
+
+<span id="arquitetura">
 
 ## 🏗️ Arquitetura do projeto
 ![Arquitetura Projeto](https://github.com/leonfagundes27/Assets/blob/main/Images/arquitetura%20projeto.png)
