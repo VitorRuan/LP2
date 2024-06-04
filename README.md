@@ -1,6 +1,6 @@
 <div align="center">
     
-![banner](LP2/capilogo.png)
+![banner](https://user-images.githubusercontent.com/69374340/172057240-dd4c637d-57ba-455c-b593-09ca86bb07a2.png)
 </div>
 <br id="topo">
 <p align="center">
