@@ -25,9 +25,9 @@ A ideia para o desenvolvimento do projeto surgiu da necessidade de se adequar ao
 Cada sprint no desenvolvimento ágil resulta em uma entrega funcional e incremental do sistema. Essas entregas são versões do produto que incluem novas funcionalidades implementadas e testadas, prontas para serem demonstradas e, potencialmente, utilizadas. Observe a relação a seguir:
 | Sprint | Previsão | Status | Histórico |
 |:--:|:----------:|:----------------|:-------------------------------------------------:|
-| 01 | 06/05/2024 | ✔️ Concluída    | [ver relatório](https://github.com/The-Bugger-Ducks/help-duck-documentation/blob/sprint-01/README.md) |
-| 02 | 15/05/2024 | ✔️ Concluída    | [ver relatório](https://github.com/The-Bugger-Ducks/help-duck-documentation/blob/sprint-02/README.md) |
-| 03 | 11/06/2024 | ⏳  Em andamento    | [ver relatório](https://github.com/The-Bugger-Ducks/help-duck-documentation/blob/sprint-03/README.md) |
+| 01 | 06/05/2024 | ✔️ Concluída    | [ver relatório](https://github.com/VitorRuan/Sprints/blob/Sprint1/README.md) |
+| 02 | 15/05/2024 | ✔️ Concluída    | [ver relatório](https://github.com/VitorRuan/Sprints/blob/Sprint2/README.md) |
+| 03 | 11/06/2024 | ⏳  Em andamento    | [ver relatório](https://github.com/VitorRuan/Sprints/blob/Sprint3/README.md) |
 
 <span id="backlogs">
 
