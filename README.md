@@ -1,6 +1,6 @@
 <div align="center">
     
-![banner](./capilogo.png)
+![banner](https://github.com/VitorRuan/Sprints/blob/main/Imagens/capilogo.png)
 </div>
 <br id="topo">
 <p align="center">
