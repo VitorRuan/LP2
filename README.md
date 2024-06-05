@@ -52,19 +52,10 @@ Durante o desenvolvimento do sistema de cadastro de professores e cursos, a fase
 Essa API RESTful utiliza os métodos HTTP POST, GET, PUT e DELETE, completando os métodos básicos do CRUD. Além disso, a aplicação é construída sobre a arquitetura MVC.
     
 > 🔗 **Links gerais** <br>
-> - Documentação do software: [clique aqui para acessar](./documentacao_geral.pdf)
+> - Documentação do software: [clique aqui para acessar](https://github.com/VitorRuan/Sprints/tree/main/Documenta%C3%A7%C3%A3o)
 > - Links para os repositórios criados:
->    - **Frontend:** [acessar help-duck-web](https://github.com/The-Bugger-Ducks/help-duck-web)
->    - **Microsserviços (backend):**
->       - **Usuários e equipamentos:** [acessar help-duck-register](https://github.com/The-Bugger-Ducks/help-duck-register)
->       - **Autenticação:** [acessar help-duck-authentication](https://github.com/The-Bugger-Ducks/help-duck-authentication)
->       - **Relatórios:** [acessar help-duck-dashboard](https://github.com/The-Bugger-Ducks/help-duck-dashboard)
->       - **Centro de soluções:** [acessar help-duck-solution-center](https://github.com/The-Bugger-Ducks/help-duck-solution-center)
->       - **Controle de chamados:** [acessar help-duck-tickets](https://github.com/The-Bugger-Ducks/help-duck-tickets)
-> - Documentações das APIs:
->    - **Microsserviço de usuários e equipamentos:** [acessar Swagger](https://help-duck-register.herokuapp.com/swagger-ui/index.html#/)
->    - **Microsserviço de controle de chamados:** [acessar Swagger](https://help-duck-ticket.herokuapp.com/swagger-ui/index.html#/)
->    - **Microsserviço de problemas e soluções:** [acessar Swagger](https://help-duck-solution-center.herokuapp.com/swagger-ui/index.html#/)
+>    - **Frontend:** [acessar Frontend](https://github.com/erick-sts/Frontend-API)
+>    - **Backend:** [acessar Backend](https://github.com/leonfagundes27/Backend-API)
 
 → [Voltar ao topo](#topo)
 
